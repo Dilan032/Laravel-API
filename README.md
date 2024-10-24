@@ -1,8 +1,12 @@
-Laravel API
+### Laravel API
 
+- route -> api.php
+- controller -> UserAuthenticationController.php
 
-route -> api.php
-controller -> UserAuthenticationController.php
+<hr>
 
-pin login
-user name and password login
+### end-point
+
+- student
+- pin/login
+- userName/login
